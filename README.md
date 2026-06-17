@@ -1,4 +1,4 @@
-# Augmented Reality in Education — Research Paper
+# Augmented Reality in Education — Review Paper
 
 **Course:** IST 616 – Emerging Technologies in Information Systems  
 **University:** Cleveland State University, Monte Ahuja College of Business  
